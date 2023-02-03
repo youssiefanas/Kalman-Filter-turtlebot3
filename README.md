@@ -7,6 +7,7 @@ Kalman Filter Esimation of TurtleBot3 Rotation. Sensor fusion technique will be 
 -To launch the launch file:  
   - `roscore`  
 	- `export TURTLEBOT3_MODEL=burger`  
+	- `roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch`
 	- `roslaunch turtlebot3_gazebo turtlebot3_stage_1.launch`  
   
   ```
